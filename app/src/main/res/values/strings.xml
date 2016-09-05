@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Test3_View</string>
+    <string name="edittext">EditText</string>
+    <string name="button">change</string>
+    <string name="textview">TextView</string>
+    <string name="checkbox1">CheckBox1</string>
+    <string name="checkbox2">CheckBox2</string>
+    <string name="checkbox3">CheckBox3</string>
+    <string name="radiobutton1">RadioButton1</string>
+    <string name="radiobutton2">RadioButton2</string>
+    <string name="radiobutton3">RadioButton3</string>
+</resources>
